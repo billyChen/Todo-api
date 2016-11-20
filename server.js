@@ -13,7 +13,7 @@ var todos = [{
 },
 {
   id: 3,
-  description: 'Sleep',
+  description: 'Sleep and sleep again',
   completed: true
 }
 ];
